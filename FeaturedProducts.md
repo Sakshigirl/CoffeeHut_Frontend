@@ -1,0 +1,4 @@
+- Cafe Americano
+- Cafe Mocha
+- Latte
+- Espresso
