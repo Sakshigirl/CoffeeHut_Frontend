@@ -15,3 +15,10 @@ Net Banking - 5%
 Credit Card - 3%
 Debit Card - 3%
 Net Banking - 3%
+
+# for Loyal user
+
+Credit Card - 15%
+Debit Card - 15%
+Net Banking - 15%
+Coffehut_Wallet - 15%
